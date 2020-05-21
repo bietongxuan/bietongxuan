@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+layout:     
+posttitle: Home
+
+date:       2018-12-01
+# 一级标题
+## 二级标题（正文内容）
+
